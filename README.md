@@ -16,5 +16,4 @@ This repository contains my solution for the Momenta Audio Deepfake Detection Ta
 - Best Eval Accuracy: 89.50% (5 epochs).
 - See `research.md` for model selection, `implementation.py` for code, and `analysis.md` for details.
 
-## License
-MIT License
+
