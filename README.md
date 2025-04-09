@@ -9,7 +9,7 @@ This repository contains my solution for the Momenta Audio Deepfake Detection Ta
 3. Download ASVspoof 2019 LA dataset and place in `/kaggle/input/asvspoof-2019-dataset/LA/` (or adjust paths).
 
 ## Usage
-- **Train**: Run `implementation.ipynb` in Jupyter or Kaggle.
+- **Train**: Run `implementation.py` in Jupyter or Kaggle.
 - **Test**: Use `best_model.pth` with the test function in the notebook.
 
 ## Results
