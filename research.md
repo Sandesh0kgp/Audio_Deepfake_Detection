@@ -21,4 +21,4 @@ This section outlines three promising audio deepfake detection approaches from [
 - **Limitations**: Preprocessing overhead (e.g., phoneme recognition); sensitive to noise.
 
 ## Selection Rationale
-These models balance innovation, performance, and applicability to Momenta’s goals. I chose the Prosodic + Pronunciation approach for implementation due to its interpretability and prior success with a similar LCNN-BiLSTM setup (see `implementation.ipynb`).
+These models balance innovation, performance, and applicability to Momenta’s goals. I chose the Prosodic + Pronunciation approach for implementation due to its interpretability and prior success with a similar LCNN-BiLSTM setup (see `implementation.py`).
